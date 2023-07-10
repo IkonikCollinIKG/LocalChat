@@ -1,0 +1,9 @@
+name: LocalChat
+version: '1.0-SNAPSHOT'
+main: de.cellum.localchat.LocalChat
+api-version: '1.19'
+prefix: LOCALCHAT
+authors: [CELLUM]
+commands:
+  chg:
+  chl:
